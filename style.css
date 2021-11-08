@@ -2,9 +2,13 @@
 
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    
+    font-family: Ubuntu, Roboto;
 
-    margin: 0;
+    margin: auto;
+    background: #1F2937;
+    max-width: 1000px;
 }
 
 /* HEADER SECTION */ 
@@ -25,7 +29,8 @@ body {
     padding-left: 6px;
     padding-right: 6px;
 
-    font: 24px bolder;
+    font-size: 26px;
+    font-style: 900;
 }
 
 #logo {
@@ -49,7 +54,6 @@ body {
 a {
     text-decoration: none;
     color: white;
-    font-family: Arial, Roboto;
 }
 
 .container {
@@ -61,17 +65,56 @@ a {
 
 .section-one {
     display: flex;
-    background: blue;
+    background: #1F2937;
     color: #F9FAF8;
     height: 360px;
+
+    border: white solid 2px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 900;
 }
 
 .left-section, .right-section {
     display: flex;
+    padding: 16px;
+    max-width: 500px;
+}
+
+.left-section {
+    flex-direction: column;
+    justify-content: space-between;
+    /* padding: 0; */
+
+    border: red solid 2px;
+}
+
+.left-section div {
+    flex: 1;
+    border: purple solid 2px;
+}
+
+
+
+.right-section {
+    align-items: center;
+
+    border: blue solid 2px;
 }
 
 .main-image {
+    object-fit: contain;
+    max-width: 468px;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
 
+    border-top-right-radius: 5% 10%;
+    border-bottom-right-radius: 5% 10%;
+    border-top-left-radius:  5% 10%;
+    border-bottom-left-radius:  5% 10%;
 }
 
 /* SECOND SECTION */
