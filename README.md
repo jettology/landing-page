@@ -1,4 +1,4 @@
 # landing-page
 The Odin Project: Landing Page
 
-[Jettology Landing Page](/index.html)
+[Jettology Landing Page](index.html)
