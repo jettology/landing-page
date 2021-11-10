@@ -5,5 +5,5 @@ The Odin Project: Landing Page
 
 [Jettology Landing Page](https://google.com)
 
-[Jettology Landing Page](/home/bisain/Documents/test.txt)
+[Jettology Landing Page](//home/bisain/Documents/test.txt)
 
