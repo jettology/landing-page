@@ -11,10 +11,4 @@ The Odin Project: Landing Page
 [HOME](./index.html)
 
 
-[link](file:///d:/absolute.md)    # absolute filesystem path
-[link](./index.html)            # relative to opened file
-[link](/relativeToProject.md)     # relative to opened project
-
-[link](~/home/bisain/Documents/Programming/TOP/landing-page/index.html)    # absolute filesystem path
-[link](./index.html)            # relative to opened file
-[link](/relativeToProject.md)     # relative to opened project
+[Jettology Landing Page](https://github.com/jettology/landing-page/index.html)
