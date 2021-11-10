@@ -11,11 +11,7 @@ The Odin Project: Landing Page
 [HOME](./index.html)
 
 
-[Jettology Landing Page](https://raw.githubusercontent.com/jettology/landing-page/main/index.html)
-
-[Jettology Landing Page](https://rawgit.com/jettology/landing-page/blob/main/index.html)
-
-[Jettology Landing Page](https://raw.githubusercontent.com/jettology/landing-page/blob/main/index.html)
+[Jettology Landing Page](https://raw.githubusercontent.com/jettology/landing-page/main/index.html?token=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)
 
 [Jettology Landing Page](https://raw.githubusercontent.com/jettology/landing-page/blob/main/index.html?token=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)
 
