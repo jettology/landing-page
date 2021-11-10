@@ -15,6 +15,6 @@ The Odin Project: Landing Page
 [link](./index.html)            # relative to opened file
 [link](/relativeToProject.md)     # relative to opened project
 
-[link](file:///home/bisain/Documents/Programming/TOP/landing-page/index.html)    # absolute filesystem path
+[link](file://home/bisain/Documents/Programming/TOP/landing-page/index.html)    # absolute filesystem path
 [link](./index.html)            # relative to opened file
 [link](/relativeToProject.md)     # relative to opened project
