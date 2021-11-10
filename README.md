@@ -3,7 +3,7 @@ The Odin Project: Landing Page
 
 [Jettology Landing Page](///home/bisain/Documents/Programming/TOP/landing-page/index.html)
 
-[Jettology Landing Page](https://google.com)
+[google](https://google.com)
 
-[Jettology Landing Page](//home/bisain/Documents/test.txt)
+[test doc](///home/bisain/Documents/test.txt)
 
