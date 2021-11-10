@@ -6,6 +6,6 @@ The Odin Project: Landing Page
 
 <a href="/home/bisain/Documents/Programming/TOP/landing-page/index.html" target="_blank">Go</a>
 
-[Jettology Landing Page](https://www.google.com)
+[GOOGLE](https://www.google.com)
 
-[Jettology Landing Page](/~/home/bisain/Documents/Programming/TOP/landing-page/index.html)
+[HOME](./home/bisain/Documents/Programming/TOP/landing-page/index.html)
