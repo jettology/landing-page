@@ -8,4 +8,4 @@ The Odin Project: Landing Page
 
 [GOOGLE](https://www.google.com)
 
-[HOME](./home/bisain/Documents/Programming/TOP/landing-page/index.html)
+[HOME](./index.html)
