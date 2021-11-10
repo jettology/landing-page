@@ -69,7 +69,7 @@ a {
     color: #F9FAF8;
     height: 360px;
 
-    border: white solid 2px;
+    border: white solid 1px;
 }
 
 .title {
@@ -86,22 +86,35 @@ a {
 .left-section {
     flex-direction: column;
     justify-content: space-between;
-    /* padding: 0; */
-
-    border: red solid 2px;
+    padding: 48px 16px;
+    row-gap: 12px;
 }
 
 .left-section div {
     flex: 1;
-    border: purple solid 2px;
 }
 
+.subtext {
+    color: #DDD;
+    font-size: 16px;
+}
 
+.sign-up-top, .sign-up-bottom {
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    background-color: #3882F6;
+    border: 0;
+    border-radius: 5px;
+    padding: 3px 20px 5px 20px;
+}
+
+.sign-up-bottom {
+
+}
 
 .right-section {
     align-items: center;
-
-    border: blue solid 2px;
 }
 
 .main-image {
@@ -111,10 +124,12 @@ a {
     padding: 0px;
     margin: 0px;
 
-    border-top-right-radius: 5% 10%;
+    border-radius: 20px;
+
+    /* border-top-right-radius: 5% 10%;
     border-bottom-right-radius: 5% 10%;
-    border-top-left-radius:  5% 10%;
-    border-bottom-left-radius:  5% 10%;
+    border-top-left-radius: 5% 10%;
+    border-bottom-left-radius: 5% 10%; */
 }
 
 /* SECOND SECTION */
