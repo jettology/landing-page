@@ -13,4 +13,4 @@ The Odin Project: Landing Page
 <a href="file:///home/bisain/Documents/Programming/TOP/landing-page/index.html">TEST</a>
 `
 
-`file:///home/bisain/Documents/Programming/TOP/landing-page/index.html`
+file:///home/bisain/Documents/Programming/TOP/landing-page/index.html
