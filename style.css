@@ -72,7 +72,7 @@ a {
     margin: auto;
     background: #1F2937;
     color: #F9FAF8;
-    height: 360px;
+    height: 400px;
     max-width: 1000px;
 }
 
@@ -147,7 +147,7 @@ a {
     justify-content: center;
     background: white;
     color: #1F2937;
-    height: 360px;
+    height: 400px;
     min-width: 800px;
     row-gap: 40px;
 }
@@ -182,21 +182,62 @@ a {
     border-radius: 16px;
     margin: auto;
     padding: 16px;
-
 }
 
 /* ================== THIRD SECTION ================== */
 .section-three {
     display: flex;
-    background: purple;
-    height: 360px;
+    align-items: center;
+    justify-content: center;
+    background: #E5E7EB;
+    color: #1F2937;
+    height: 400px;
+    min-width: 600px;
+    gap: 30px;
 }
+
+.quote-image {
+    display: flex;
+}
+
+.quote-image img {
+    object-fit: contain;
+    max-height: 160px;
+    width: auto;
+    padding: 0px;
+
+    border-radius: 10px;
+    box-shadow: 0 0 15px 10px #AAA;
+}
+
+.section-three-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    row-gap: 8px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    max-width: 750px;
+}
+
+.quote-author {
+    font-size: 20px;
+    font-weight: 800;
+}
+
 
 /* ================== FOURTH SECTION ================== */
 .section-four {
     display: flex;
-    background: green;
-    height: 360px;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    height: 400px;
+    min-width: 600px;
 }
 
 /* ================== FOOTER SECTION ================== */
