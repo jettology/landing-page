@@ -6,19 +6,20 @@ body {
     
     font-family: Ubuntu, Roboto;
 
-    margin: auto;
+    margin: 0;
     background: #1F2937;
-    max-width: 1000px;
 }
 
-/* HEADER SECTION */ 
+/* ================== HEADER SECTION ================== */ 
 
 .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 100px;
+    margin: auto;
     background: #1F2937;
+    height: 100px;
+    max-width: 1000px;
 }
 
 .header-logo {
@@ -59,17 +60,20 @@ a {
 .container {
     display: flex;
     flex-direction: column;
+    
 }
 
-/* FIRST SECTION */
+/* ================== FIRST SECTION ================== */
 
 .section-one {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
     background: #1F2937;
     color: #F9FAF8;
     height: 360px;
-
-    border: white solid 1px;
+    max-width: 1000px;
 }
 
 .title {
@@ -88,6 +92,7 @@ a {
     justify-content: space-between;
     padding: 48px 16px;
     row-gap: 12px;
+    min-width: 400px;
 }
 
 .left-section div {
@@ -132,29 +137,69 @@ a {
     border-bottom-left-radius: 5% 10%; */
 }
 
-/* SECOND SECTION */
+
+/* ================== SECOND SECTION ================== */
 
 .section-two {
     display: flex;
-    background: red;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    color: #1F2937;
     height: 360px;
+    min-width: 800px;
+    row-gap: 40px;
 }
 
-/* THIRD SECTION */
+.title-two {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.image-container {
+    display: flex;
+    gap: 40px;
+    align-items: baseline;
+}
+
+.image-card {
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+}
+
+.image-card p {
+    text-align: center;
+    color: #797979;
+    font-weight: 500;
+}
+
+.image-card img {
+    display: flex;
+    height: 100px;
+    border:  #3882F6 solid 4px;
+    border-radius: 16px;
+    margin: auto;
+    padding: 16px;
+
+}
+
+/* ================== THIRD SECTION ================== */
 .section-three {
     display: flex;
     background: purple;
     height: 360px;
 }
 
-/* FOURTH SECTION */
+/* ================== FOURTH SECTION ================== */
 .section-four {
     display: flex;
     background: green;
     height: 360px;
 }
 
-/* FOOTER SECTION */
+/* ================== FOOTER SECTION ================== */
 .footer {
     display: flex;
     background: black;
