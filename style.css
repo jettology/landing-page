@@ -243,7 +243,7 @@ a:hover {
     align-items: center;
     justify-content: center;
     background: white;
-    height: 200px;
+    height: 250px;
     min-width: 600px;
 }
 
@@ -274,11 +274,14 @@ a:hover {
 }
 
 
-
 /* ================== FOOTER SECTION ================== */
 .footer {
     display: flex;
-    background: black;
-    color: #F9FAF8;
-    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background: #1F2937;
+    color: #DDD;
+    font-weight: 400;
+    font-size: 14px;
+    height: 70px;
 }
